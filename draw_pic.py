@@ -10,5 +10,3 @@ axes = fig.add_axes([0.1, 0.1, 0.9, 0.9])
 axes.plot(x1, y1, 'b')
 
 plt.show() 
-
-#end
